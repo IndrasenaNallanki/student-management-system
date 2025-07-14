@@ -27,6 +27,6 @@ This is a simple Java-based Student Management System using JDBC and MySQL.
 4. Add the JDBC driver (`mysql-connector-j-8.x.x.jar`) to your project build path.
 5. Run `Main.java` to get started.
 
-## 📌 Author
+## 📌 Indrasena N
 Developed as part of Java full-stack learning by a passionate developer.
 
